@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Austin-TheTrueShinobi/BACnet-API/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Location of Project Updates: https://github.com/Austin-TheTrueShinobi/BACnet-API/projects/1
+Location of Project Updates: [BACnet Project](https://github.com/Austin-TheTrueShinobi/BACnet-API/projects/1)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
