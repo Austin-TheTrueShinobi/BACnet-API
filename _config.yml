@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: BACnet-API Documentation
 description: BACnet API is a system's integration interface that connects Kafka data streams to Metasys server endpoints through asynchronous computation calls. 
-description: This documentation is the primary resource of navigation.
+  This documentation is the primary resource of navigation.
